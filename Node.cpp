@@ -1,9 +1,12 @@
 #include "Node.h"
 #include <iostream>
+#include <string.h>
+
 
 //Constructor:
 Node::Node(Datatype data) {
-	this->Data = data;
+	this->Data = new char[strlen(data)+1];
+	strcpy(this->Data, data);
 	this->next_Node = NULL;
 }
 //Return node's data:

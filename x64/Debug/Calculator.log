@@ -1,66 +1,21 @@
-﻿  calculate.cpp
+﻿  LinkedList.cpp
+  LinkedQueue.cpp
+C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\LinkedQueue.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  LinkedStack.cpp
+  Node.cpp
+C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\Node.cpp(3,10): fatal  error C1083: Cannot open include file: '': No such file or directory
+  calculate.cpp
 C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(9,14): error C2664: 'bool Queue::DeQueue(Datatype &)': cannot convert argument 1 from 'char' to 'Datatype &'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\LinkedQueue.h(9,7): message : see declaration of 'Queue::DeQueue'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(9,14): message : while trying to match the argument list '(char)'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(13,9): error C2664: 'bool Stack::Pop(Datatype &)': cannot convert argument 1 from 'char' to 'Datatype &'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\LinkedStack.h(9,7): message : see declaration of 'Stack::Pop'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(13,9): message : while trying to match the argument list '(char)'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(14,9): error C2664: 'bool Stack::Pop(Datatype &)': cannot convert argument 1 from 'char' to 'Datatype &'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\LinkedStack.h(9,7): message : see declaration of 'Stack::Pop'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(14,9): message : while trying to match the argument list '(char)'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(33,7): error C2664: 'bool Stack::Pop(Datatype &)': cannot convert argument 1 from 'char' to 'Datatype &'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\LinkedStack.h(9,7): message : see declaration of 'Stack::Pop'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(33,7): message : while trying to match the argument list '(char)'
   infixtopostfix.cpp
 C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(34,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(49,11): error C2664: 'bool Stack::Pop(Datatype &)': cannot convert argument 1 from 'char' to 'Datatype &'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\LinkedStack.h(9,7): message : see declaration of 'Stack::Pop'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(49,11): message : while trying to match the argument list '(char)'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(58,17): error C2664: 'bool Stack::Pop(Datatype &)': cannot convert argument 1 from 'char' to 'Datatype &'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\LinkedStack.h(9,7): message : see declaration of 'Stack::Pop'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(58,17): message : while trying to match the argument list '(char)'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(75,9): error C2664: 'bool Stack::Pop(Datatype &)': cannot convert argument 1 from 'char' to 'Datatype &'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\LinkedStack.h(9,7): message : see declaration of 'Stack::Pop'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(75,9): message : while trying to match the argument list '(char)'
-  LinkedList.cpp
-  LinkedQueue.cpp
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\LinkedQueue.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  LinkedStack.cpp
   main_Calculator.cpp
 C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(9,14): error C2664: 'bool Queue::DeQueue(Datatype &)': cannot convert argument 1 from 'char' to 'Datatype &'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\LinkedQueue.h(9,7): message : see declaration of 'Queue::DeQueue'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(9,14): message : while trying to match the argument list '(char)'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(13,9): error C2664: 'bool Stack::Pop(Datatype &)': cannot convert argument 1 from 'char' to 'Datatype &'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\LinkedStack.h(9,7): message : see declaration of 'Stack::Pop'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(13,9): message : while trying to match the argument list '(char)'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(14,9): error C2664: 'bool Stack::Pop(Datatype &)': cannot convert argument 1 from 'char' to 'Datatype &'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\LinkedStack.h(9,7): message : see declaration of 'Stack::Pop'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(14,9): message : while trying to match the argument list '(char)'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(33,7): error C2664: 'bool Stack::Pop(Datatype &)': cannot convert argument 1 from 'char' to 'Datatype &'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\LinkedStack.h(9,7): message : see declaration of 'Stack::Pop'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\calculate.cpp(33,7): message : while trying to match the argument list '(char)'
 C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(34,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(49,11): error C2664: 'bool Stack::Pop(Datatype &)': cannot convert argument 1 from 'char' to 'Datatype &'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\LinkedStack.h(9,7): message : see declaration of 'Stack::Pop'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(49,11): message : while trying to match the argument list '(char)'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(58,17): error C2664: 'bool Stack::Pop(Datatype &)': cannot convert argument 1 from 'char' to 'Datatype &'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\LinkedStack.h(9,7): message : see declaration of 'Stack::Pop'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(58,17): message : while trying to match the argument list '(char)'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(75,9): error C2664: 'bool Stack::Pop(Datatype &)': cannot convert argument 1 from 'char' to 'Datatype &'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\LinkedStack.h(9,7): message : see declaration of 'Stack::Pop'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\infixtopostfix.cpp(75,9): message : while trying to match the argument list '(char)'
 C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\main_Calculator.cpp(9,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Node.cpp
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\Node.cpp(6,15): error C2440: '=': cannot convert from 'Datatype' to 'const Datatype *'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\Node.cpp(6,15): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\Node.cpp(11,13): error C2440: 'return': cannot convert from 'const Datatype *' to 'Datatype'
-C:\Users\TESTER\Desktop\Data Structure and algorithms\Theory\Code - Examples from theory\Lesson 13\Calculator\Node.cpp(11,13): message : There is no context in which this conversion is possible
   Generating Code...
