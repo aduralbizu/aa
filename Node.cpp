@@ -5,8 +5,7 @@
 
 //Constructor:
 Node::Node(Datatype data) {
-	this->Data = new char[strlen(data)+1];
-	strcpy(this->Data, data);
+	this->Data = data;
 	this->next_Node = NULL;
 }
 //Return node's data:
